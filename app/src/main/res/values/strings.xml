@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Chatting App IO</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome!</string>
+    <string name="slide_1_desc">Lets get started :)</string>
+
+    <string name="slide_2_title">Create your username</string>
+    <string name="slide_2_desc">Before joining the chat room, make an username!</string>
+
+    <string name="slide_3_title">Create your chatting room!</string>
+    <string name="slide_3_desc">Type chatroom name and click room button, and voila! Your chatroom is ready!</string>
+
+    <string name="slide_4_title">Switch to Light or Dark</string>
+    <string name="slide_4_desc">Click settings and choose Light Mode or Dark Mode, finish!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="polinema_mobile">POLINEMA MOBILE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="basic_preferences">Basic</string>
+    <string name="title_basic_preference">Basic Preference</string>
+    <string name="summary_basic_preference">Example of basic preference</string>
+    <string name="title_stylish_preference">Stylish Preference</string>
+    <string name="summary_stylish_preference">Example of stylish preference</string>
+    <string name="title_icon_preference">Icon Preference</string>
+    <string name="summary_icon_preference">Example of preference with icon</string>
+    <string name="title_single_line_title_preference">Single Line Title Preference</string>
+    <string name="summary_single_line_title_preference">Example of single line title preference</string>
+    <string name="widgets">Widgets</string>
+    <string name="dialogs">Dialogs</string>
+    <string name="title_checkbox_preference">Checkbox Preference</string>
+    <string name="summary_checkbox_preference">Example of checkbox preference</string>
+    <string name="title_switch_preference">Switch Preference</string>
+    <string name="summary_switch_preference">Example of switch preference</string>
+    <string name="title_dropdown_preference">Dropdown Preference</string>
+    <string name="title_seekbar_preference">Seekbar Preference</string>
+    <string name="title_edittext_preference">Edittext Preference</string>
+    <string name="dialog_title_edittext_preference">EditText Preference</string>
+    <string name="title_list_preference">List Preference</string>
+    <string name="dialog_title_list_preference">List Preference</string>
+    <string name="title_multi_list_preference">Multi List Preference</string>
+    <string name="summary_multi_list_preference">Summary of multi  list preference</string>
+    <string name="dialog_title_multi_list_preference">Multi List Preference</string>
+    <string name="advanced_attributes">Advanced</string>
+    <string name="title_expandable_preference">Expandable Preference</string>
+    <string name="summary_expandable_preference">Summary of expandable preference</string>
+    <string name="title_intent_preference">Intent Preference</string>
+    <string name="summary_intent_preference">Summary of intent preference</string>
+    <string name="title_parent_preference">Parent Preference</string>
+    <string name="summary_parent_preference">Summary of parent preference</string>
+    <string name="title_child_preference">Child Preference</string>
+    <string name="summary_child_preference">Summary of child preference</string>
+    <string name="title_toggle_summary_preference">Toggle Summary Preference</string>
+    <string name="summary_on_toggle_summary_preference">Summary when toggle on</string>
+    <string name="summary_off_toggle_summary_preference">Summary when toggle off</string>
+    <string name="title_copyable_preference">Copyable Preference</string>
+    <string name="summary_copyable_preference">Summary of copyable preference</string>
+    <string name="home">Home</string>
+</resources>

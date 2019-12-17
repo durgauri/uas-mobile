@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "564336380001",
+    "firebase_url": "https://realtimechat-deb35.firebaseio.com",
+    "project_id": "realtimechat-deb35",
+    "storage_bucket": "realtimechat-deb35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564336380001:android:0eb4c21d4aa3dee116c220",
+        "android_client_info": {
+          "package_name": "polinema.ac.id.realtimechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564336380001-c6sv2hqtef3tq4s4bv7q3lbnm0di0cgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "polinema.ac.id.realtimechat",
+            "certificate_hash": "d6633ad93ba33efb6c16d3acea8dbe434b03d5fd"
+          }
+        },
+        {
+          "client_id": "564336380001-au3nqj2rsr2nm8vv4sl6b53svdqmgkve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzzk4GlE0uPm3ObI_cbleHyHzzSRS2k-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564336380001-au3nqj2rsr2nm8vv4sl6b53svdqmgkve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
